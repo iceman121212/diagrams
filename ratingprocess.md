@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
   A[1) Issuer requests rating\nStakeholder: Issuer] --> 
   B[2) Kick off commercial engagement\nOwner: Commercial / Relationship Team] --> 
